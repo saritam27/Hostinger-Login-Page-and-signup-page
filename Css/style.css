@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.log-in {
+    font-weight: 700;
+    font-size: x-large;
+    color: #43434b;
+    font-family: "Roboto", sans-serif;
+}
+
+.image1 {
+    border: 1px solid #dbdde1;
+}
+
+.divider {
+    border: 1px solid #dadce0;
+}
+
+.divider-text {
+    color: #979797;
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+.form-control {
+    font-size: 0.8rem;
+    color: #757575;
+    font-weight: 500;
+    border-color: #ebecee;
+}
+
+.custom-btn {
+    background-color: #6747c7;
+    color: white;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.forgot-pass {
+    font-size: 14px;
+    color: #6747c7;
+    font-weight: 600;
+}
+
+.forgot-pass:hover {
+    background-color: #c4bcdd;
+}
+
+.not-a-member {
+    font-size: 16px;
+    color: #6747c7;
+    font-weight: 700;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+
+
+.form-check-label {
+    font-size: 15px;
+    color: #7f7fa8;
+}
+
+@media screen and (width-max :992px) {
+    .custom-btn {
+        width: 100px;
+        color: blue;
+    }
+
+}
+
+.email-row{
+    color: #444746;
+    line-height: 8px;
+  
+}
+.email-row>h6{
+    color: #1f1f1f;
+}
+.use-another-account{
+    color: #1f1f1f;
+    line-height: 8px;
+    font-weight: 600;
+    font-size:1rem;
+
+}
+.row-email{
+    border-bottom: 1px solid #c4c7c5;
+  
+}
+.paragraph{
+    font-size: 0.8rem;
+}
+.first-part>div{
+font-size: 0.9rem;
+}
+.link-changes{
+    text-decoration: none;
+    color:#0b57d0;
+    font-weight: 500;
+}
+.dropdown-menu{
+    overflow-y: scroll;
+    
+}
+.dropdown-menu>li>a{
+    font-size: 12px;
+    color: #828486;
+}
+.dropdown-menu>li{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.dropdown>button{
+    background-color: #f0f4f9  ;
+    color: #7b7d7f;
+    border: none;
+    font-size: 12px;
+}
+.dropdown>button:hover{
+    background-color: #d5dce4;
+    color: #7b7d7f;
+}
+.footer>li>a{
+    color: #555957;
+    text-decoration: none;
+    font-size: 12px;
+    margin-left: 30px;
+}
+.footer>li>a:hover{
+    background-color: #d5dce4;
+    color: #7b7d7f;
+    padding: 5px;
+    border-radius: 5px;
+}
